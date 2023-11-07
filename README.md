@@ -8,12 +8,7 @@ Still Learning
 
 ![Visitor Count](https://profile-counter.glitch.me/rahulroyalsingh/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulroyalsingh&column=7"/>
-  </a>
-</div>
+
 
 Languages and Tools: 
 
