@@ -1,8 +1,5 @@
 hello my fellow developers
 
-
-I'm
-Web Developer
 Still Learning 
 
 https://www.linkedin.com/in/rahulroyalsingh/
