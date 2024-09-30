@@ -1,7 +1,3 @@
-hello my fellow developers
-
-Still Learning 
-
 https://www.linkedin.com/in/rahulroyalsingh/
 
 ![Visitor Count](https://profile-counter.glitch.me/rahulroyalsingh/count.svg)
